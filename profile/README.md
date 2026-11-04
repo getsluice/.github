@@ -16,4 +16,4 @@ Pick a saved site, browse the server, double-click a file to edit it in VS Code,
 
 ### Download
 
-Sluice isn't released yet. When it is, the installer and release notes for each version will be in **[sluice-releases](https://github.com/getsluice/sluice-releases/releases)**.
+**[Download the latest version](https://github.com/getsluice/sluice-releases/releases/latest/download/Sluice.dmg)** (macOS, Apple Silicon and Intel). The installer and release notes for each version are in **[sluice-releases](https://github.com/getsluice/sluice-releases/releases)**.
