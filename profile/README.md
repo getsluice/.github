@@ -12,7 +12,7 @@ Pick a saved site, browse the server, double-click a file to edit it in VS Code 
 - **Familiar layout:** a folder tree, a file list with Name, Size, Modified, Rights and Owner, a path bar, and one tab per server.
 - **Keyboard first:** F2 rename, F4 edit, F5 refresh, F7 new folder and F8 delete, plus the usual shortcuts.
 - **Safe by default:** Sluice checks every server's identity and warns you clearly when it changes.
-- **Connections:** SFTP and SCP today. FTP and FTPS, WebDAV, Amazon S3 and S3-compatible storage are coming.
+- **Connections:** SFTP, SCP, FTP and FTPS today. WebDAV, Amazon S3 and S3-compatible storage are coming.
 
 ### Download
 
